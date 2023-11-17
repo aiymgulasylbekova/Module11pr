@@ -13,5 +13,5 @@ namespace Module11pr
           
         }
     }
-    enum Vacancies { Manager, Boss, Clerk, Salesman };//создаем перечисление
+    enum Vacancies { Manager, Secretary };
 }
